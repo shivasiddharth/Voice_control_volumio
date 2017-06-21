@@ -44,6 +44,7 @@
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
+//Add your Adafruit.IO username and key. It can be found under settings tab
 #define AIO_USERNAME    "********"
 #define AIO_KEY         "**************************"
 
